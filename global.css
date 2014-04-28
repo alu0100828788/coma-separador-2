@@ -17,7 +17,7 @@ tr:nth-child(odd)    { background-color: pink; }
 tr:nth-child(even)    { background-color:#eee; }
 input        { text-align: center;  border: solid;       }     /* Align input to the right  */
 textarea     { border: outset; border-color: white;      }                        
-table        { border: inset; border-color: green; }
+table        { border: inset; border-color: brown; }
 table.center { margin-left:auto; margin-right:auto; }
 #result      { border-color: yellow; }
 tr.error       { background-color: pink; }
